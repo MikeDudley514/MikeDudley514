@@ -1,16 +1,24 @@
-## Hi there 👋
+👋 Hey there, I’m Mike Dudley Ducasse  
+🎓 Computer Science Student | 🇨🇦 Canadian-Haitian | 💡 Problem Solver  
 
-<!--
-**MikeDudley514/MikeDudley514** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 **Languages & Tools I Use Regularly**  
+- Java | JavaScript | Python | SQL  
+- React.js | Node.js | Express | Knex.js  
+- MongoDB | SQLite | Apache Cassandra | Hadoop | Spark  
+- Git | GitHub | GitLab CI/CD | Postman | OpenAPI  
 
-Here are some ideas to get you started:
+🛠️ **What I Know How to Build**  
+- Full-stack web apps (with auth, APIs, and DB integration)  
+- RESTful services with JWT and validation workflows  
+- Scalable data pipelines with Spark & MapReduce  
+- Frontends with responsive design using React, Bootstrap, Bulma  
+- Automated CI/CD pipelines and Azure Web App deployment  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📚 **Things I’m Focused On Right Now**  
+- Writing clean, SOLID-compliant code  
+- Improving system design skills & working with design patterns  
+- Exploring cloud solutions and devops workflows  
+- Becoming more fluent in data structures and distributed systems  
+
+🌱 Always learning, always building.  
+🧠 I like debugging tricky problems and making systems run smoother.  
